@@ -7,9 +7,6 @@ import seaborn as sns
 from mpl_toolkits.mplot3d import Axes3D   # noqa: F401
 
 # ============================================================
-# EXPERIMENT 6: 3D and Multi-variable Visualization
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class DatasetError(ValueError):
