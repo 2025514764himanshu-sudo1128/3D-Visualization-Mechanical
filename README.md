@@ -1,8 +1,5 @@
 # Experiment 06: 3D and Multi-variable Visualization of Mechanical Trends
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -62,8 +59,8 @@ jupyter notebook
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp06-3D-Visualization-Mechanical.git
-cd Exp06-3D-Visualization-Mechanical
+git clone https://github.com/2025514764himanshu-sudo1128/3D-Visualization-Mechanical.git
+cd 3D-Visualization-Mechanical
 python mechanical_visualization.py
 ```
 
